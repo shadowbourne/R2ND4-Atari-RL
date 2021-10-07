@@ -34,13 +34,17 @@ Recurrent Replay Non-Distributed Deeper Denser DQN (R2ND4) is a Reinforcement Le
 To run notebook code (R2ND4.ipynb) open in Jupyter or upload to Google Colab. 
 
 ## Results:
+
+### Example video:
+https://user-images.githubusercontent.com/18665030/136416475-20afbb62-4e45-4ae0-afea-2fec9538f8f7.mp4
+
 ### Training graph of mean scores (rolling average over past 100 episodes):
 ![Training graph](training-graph.png?raw=true "Training graph")
 **Note:** This graph was selected as the best in the cohort and included in the class feedback as one of two exemplar graphs.
 
 As is clear from the graph, the agent has not yet fully converged.
-### Example video:
-![Example video](gravitar-example-video.mp4)
+
+
 ## References:
 The findings of the following papers were relied upon for the design of R2ND4:
 * Recurrent Experience Replay in Distributed Reinforcement Learning (R2D2) [1]: https://openreview.net/forum?id=r1lyTjAqYX;
