@@ -35,8 +35,11 @@ To run notebook code (R2ND4.ipynb) open in Jupyter or upload to Google Colab.
 
 ## Results:
 
-### Example video:
-https://user-images.githubusercontent.com/18665030/136416475-20afbb62-4e45-4ae0-afea-2fec9538f8f7.mp4
+### Demo video (taken from my [portfolio page](https://github.com/shadowbourne)):
+  >![Gifdemo2](https://user-images.githubusercontent.com/18665030/136660504-c89f9c89-41d3-4070-982f-23473bda3fcb.gif)
+  >
+  > We were tasked with creating a Reinforcement Learning agent to play the notoriously difficult Gravitar from the Atari-57 suite. I therefore decided to look for the current state-of-the-art Reinforcement Learning model for Atari ([R2D2](https://openreview.net/pdf?id=r1lyTjAqYX)) and re-created it to the best I could with my limited hardware. I produced the best agent in the class, and my convergence graph was used as exemplar feedback to the cohort.
+
 
 ### Training graph of mean scores (rolling average over past 100 episodes):
 ![Training graph](training-graph.png?raw=true "Training graph")
