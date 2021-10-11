@@ -1,7 +1,7 @@
 # Recurrent Replay Non-Distributed Deeper Denser DQN - Gravitar
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
-## Grade: 1st - 100/100, 1st in year.
+## Grade: 1st - 100/100, 1st in year (of 136 students).
 > "This is an amazing agent that’s very impressive to see at an undergraduate RL course - you’ve clearly done
 > a huge amount of research and spent many hours for this. It has top of the class high score - you could
 > probably even publish some of the work here. Your agent design choices are all highly appropriate, picking
