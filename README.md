@@ -8,7 +8,7 @@ This summative assignment was assessed and marked by the professor of the module
 > many ways to balance exploration and exploitation with a recurrent architecture that can help with stability
 > and analysis of long-term rewards while exploring within the difficult Gravitar environment. The agent in
 > the video extremely intuitive, playing better than many humans. The convergence is outstanding, especially
-> after 100k steps; increasing steadily after such a large amount of training is quite an achievement!" - Dr Chris G. Willcocks
+> after 100k steps; increasing steadily after such a large amount of training is quite an achievement! Overall, this is a fantastic piece of academic writing, scientific experimentation, independent research, and countless hours of GPU training and shows an unexpected mastery of deep learning and reinforcement learning for an undergraduate. This must clearly be your passion, and all I can say is I hope you keep doing this in your career! Perfect!" - Dr Chris G. Willcocks
 
 ## Architecture:
 Recurrent Replay Non-Distributed Deeper Denser DQN (R2ND4) is a Reinforcement Learning Agent that was initially designed as a non-distributed version of R2D2 [1] and was later developed further. R2ND4 uses: 
